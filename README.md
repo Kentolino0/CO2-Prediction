@@ -17,8 +17,8 @@ Dieses Projekt analysiert globale CO₂-Daten und sagt die zukünftige Entwicklu
 
 | Datei            | Beschreibung                                              |
 |------------------|-----------------------------------------------------------|
-| `co2_analysis.py`| Haupt-Python-Skript für Analyse und Visualisierung        |
-| `co2_data.csv`   | Datensatz (z. B. mit Spalten: `CountryCode`, `CountryName`, `Year`, `Value`) |
+| `CO2Prediction.ipynb`| Haupt-Python-Skript für Analyse und Visualisierung        |
+| `emmissions.csv`   | Datensatz (z. B. mit Spalten: `CountryCode`, `CountryName`, `Year`, `Value`) |
 | `README.md`      | Diese Datei                                               |
 
 ---
