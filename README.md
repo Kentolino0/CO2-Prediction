@@ -9,9 +9,6 @@ Dieses Projekt analysiert globale CO₂-Daten und sagt die zukünftige Entwicklu
 - Berechnung des globalen Durchschnitts der CO₂-Werte pro Jahr
 - Visualisierung des zeitlichen Trends (1980–heute)
 - Lineare Regression zur Vorhersage der CO₂-Werte bis 2035
-- Optional: Zoom auf interessante Zeiträume (z. B. 1990)
-
----
 
 ## 📁 Dateien
 
